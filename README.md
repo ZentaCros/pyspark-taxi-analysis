@@ -90,4 +90,4 @@ jupyter notebook nyc_taxi_analysis.ipynb
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-*Developed by Muhammad Hamza Azeem (221980023) as part of the Big Data Analytics (DS-313) coursework at GIFT University.*
+*Developed by Muhammad Hamza Azeem as part of the Big Data Analytics (DS-313) coursework at GIFT University.*
