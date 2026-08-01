@@ -50,8 +50,8 @@ A big data processing pipeline built with **PySpark** to analyze millions of New
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/NYC-Taxi-Spark-Analytics.git
-   cd NYC-Taxi-Spark-Analytics
+   git clone https://github.com/ZentaCros/pyspark-taxi-analysis.git
+   cd pyspark-taxi-analysis
    ```
 
 2. Install dependencies:
